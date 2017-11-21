@@ -1,0 +1,4 @@
+﻿  EuroMillionsDice.cpp
+c:\dev\c++\funnyapps\randomlotto\lottodice\euromillionsdice\euromillionsdice.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EuroMillionsDice.vcxproj -> C:\dev\c++\FunnyApps\RandomLotto\LottoDice\Debug\EuroMillionsDice.exe
+  EuroMillionsDice.vcxproj -> C:\dev\c++\FunnyApps\RandomLotto\LottoDice\Debug\EuroMillionsDice.pdb (Full PDB)

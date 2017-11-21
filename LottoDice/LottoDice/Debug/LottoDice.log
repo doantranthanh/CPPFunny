@@ -1,0 +1,4 @@
+﻿  LottoDice.cpp
+c:\dev\c++\funnyapps\randomlotto\lottodice\lottodice\lottodice.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LottoDice.vcxproj -> C:\dev\c++\FunnyApps\RandomLotto\LottoDice\Debug\LottoDice.exe
+  LottoDice.vcxproj -> C:\dev\c++\FunnyApps\RandomLotto\LottoDice\Debug\LottoDice.pdb (Full PDB)
